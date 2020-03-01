@@ -5,7 +5,74 @@
   "GalleryIndexHTMLFile": "/gallery/Index.html",
   "GalleryIndexMarkdownFile": "/gallery/Index.md",
   "ImageThumbnail": null,
-  "PhotoGalleries": [],
+  "PhotoGalleries": [
+    {
+      "GalleryName": "test_images",
+      "DirectoryName": "/test_images",
+      "FullDirectoryPath": "/gallery/test_images",
+      "GalleryIndexHTMLFile": "/gallery/test_images.html",
+      "GalleryIndexMarkdownFile": "/gallery/test_images.md",
+      "ImageThumbnail": "gallery\\Thumbnails\\thumbnail-test_images-bench-accounting-nvzvOPQW0gc-unsplash.jpg",
+      "PhotoGalleries": [],
+      "Images": [
+        {
+          "ImageWidth": 3500,
+          "ImageHeight": 2333,
+          "Name": "bench-accounting-nvzvOPQW0gc-unsplash.jpg",
+          "Folder": "/gallery/test_images",
+          "OriginalFilePath": "gallery\\test_images\\bench-accounting-nvzvOPQW0gc-unsplash.jpg",
+          "ResizedFilePath": "gallery\\test_images\\resized-bench-accounting-nvzvOPQW0gc-unsplash.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-test_images-bench-accounting-nvzvOPQW0gc-unsplash.jpg"
+        },
+        {
+          "ImageWidth": 5340,
+          "ImageHeight": 3560,
+          "Name": "erik-mclean-HIz61_GB5oQ-unsplash.jpg",
+          "Folder": "/gallery/test_images",
+          "OriginalFilePath": "gallery\\test_images\\erik-mclean-HIz61_GB5oQ-unsplash.jpg",
+          "ResizedFilePath": "gallery\\test_images\\resized-erik-mclean-HIz61_GB5oQ-unsplash.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-test_images-erik-mclean-HIz61_GB5oQ-unsplash.jpg"
+        },
+        {
+          "ImageWidth": 3223,
+          "ImageHeight": 5902,
+          "Name": "grovemade-dS62MvK4CtM-unsplash.jpg",
+          "Folder": "/gallery/test_images",
+          "OriginalFilePath": "gallery\\test_images\\grovemade-dS62MvK4CtM-unsplash.jpg",
+          "ResizedFilePath": "gallery\\test_images\\resized-grovemade-dS62MvK4CtM-unsplash.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-test_images-grovemade-dS62MvK4CtM-unsplash.jpg"
+        },
+        {
+          "ImageWidth": 5184,
+          "ImageHeight": 2836,
+          "Name": "john-mark-arnold-ti4kGLkGgmU-unsplash.jpg",
+          "Folder": "/gallery/test_images",
+          "OriginalFilePath": "gallery\\test_images\\john-mark-arnold-ti4kGLkGgmU-unsplash.jpg",
+          "ResizedFilePath": "gallery\\test_images\\resized-john-mark-arnold-ti4kGLkGgmU-unsplash.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-test_images-john-mark-arnold-ti4kGLkGgmU-unsplash.jpg"
+        },
+        {
+          "ImageWidth": 5184,
+          "ImageHeight": 3456,
+          "Name": "manja-vitolic-7tOV35hnkao-unsplash.jpg",
+          "Folder": "/gallery/test_images",
+          "OriginalFilePath": "gallery\\test_images\\manja-vitolic-7tOV35hnkao-unsplash.jpg",
+          "ResizedFilePath": "gallery\\test_images\\resized-manja-vitolic-7tOV35hnkao-unsplash.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-test_images-manja-vitolic-7tOV35hnkao-unsplash.jpg"
+        },
+        {
+          "ImageWidth": 4255,
+          "ImageHeight": 2923,
+          "Name": "zarak-khan-fj31I5HoOIQ-unsplash.jpg",
+          "Folder": "/gallery/test_images",
+          "OriginalFilePath": "gallery\\test_images\\zarak-khan-fj31I5HoOIQ-unsplash.jpg",
+          "ResizedFilePath": "gallery\\test_images\\resized-zarak-khan-fj31I5HoOIQ-unsplash.jpg",
+          "ThumbnailFilePath": "gallery\\Thumbnails\\thumbnail-test_images-zarak-khan-fj31I5HoOIQ-unsplash.jpg"
+        }
+      ],
+      "GeneratedDateTime": "3/1/2020 11:12:51 PM"
+    }
+  ],
   "Images": [],
-  "GeneratedDateTime": "2/27/2020 10:12:14 PM"
+  "GeneratedDateTime": "3/1/2020 11:12:51 PM"
 }
